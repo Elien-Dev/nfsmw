@@ -1,0 +1,416 @@
+[
+  {
+    "id": "nfsmw-BL-00",
+    "Blacklist-position": "00",
+    "name": "",
+    "nickname": "",
+    "runner-image": "www.link-image.com",
+    "history": "el jugador asume el papel de un corredor callejero sin nombre que llega a la ciudad de Rockport con su BMW M3 GTR. Llegando a Rockport rápidamente te enfrentaras a los corredores locales, incluyendo a los miembros de la Blacklist, una lista de los corredores más buscados de la ciudad.",
+    "vehicle": {
+      "image": "www.link-image.com",
+      "Vehicle-Brand": "BMW",
+      "Vehicle-Model": "M3 GTR",
+      "color": "Plateado con vinilos azules",
+      "modifications": {
+        "Suspensión": "Suspensión deportiva ajustable, diseñada para mejorar la estabilidad y el manejo del coche, especialmente útil en carreras de alta velocidad.",
+        "tires": "Neumáticos de alto rendimiento que ofrecen excelente tracción y control. Llantas de aleación de 19 pulgadas, diseñadas para soportar altas velocidades y proporcionar un buen agarre.",
+        "Vinilos": "El M3 GTR está decorado con rayas azules que recorren el capó, el techo y el maletero, dándole un aspecto distintivo y deportivo.",
+        "Rendimiento": "El BMW M3 GTR es un coche de alto rendimiento, ideal para carreras sprint debido a su rápida aceleración y alta velocidad máxima. Su suspensión deportiva y neumáticos de alto rendimiento mejoran la estabilidad y el control, permitiendo un rendimiento óptimo en carreras de alta velocidad. El diseño distintivo con rayas azules resalta su carácter deportivo, mientras que su motor potente asegura que pueda competir con los mejores en la Blacklist."
+      },
+      "description": "El Ford Mustang GT de Razor es un coche de alto rendimiento, ideal para todas las modalidades de carrera en “Need for Speed: Most Wanted (2005)”. Su rápida aceleración y alta velocidad máxima lo hacen perfecto para carreras de aceleración, radar, sprint y circuito. La suspensión deportiva y los neumáticos de alto rendimiento mejoran la estabilidad y el control, permitiendo un rendimiento óptimo en cualquier tipo de carrera. El diseño agresivo con vinilos de llamas resalta su carácter intimidante, mientras que su motor potente asegura que pueda competir con los mejores en la Blacklist."
+    }
+  },
+  {
+    "id": "nfsmw-BL-01",
+    "Blacklist-position": "01",
+    "name": "Clarence Callahan",
+    "nickname": "Razor",
+    "runner-image": "www.link-image.com",
+    "history": "Historial: Razor se catapultó hasta la cima de la Blacklist utilizando tu buga. Ahora se mantiene allí y recorre las calles de Rockport como si le pertenecieran. El tío hará lo que sea necesario para jugar con ventaja, así que intentará calentarte la cabeza. Recuerda que no puedes fiarte de nada de lo que diga ese tío.",
+    "vehicle": {
+      "image": "www.link-image.com",
+      "Vehicle-Brand": "Ford",
+      "Vehicle-Model": "Mustang GT",
+      "color": "Negro",
+      "modifications": {
+        "Suspensión": "Suspensión deportiva ajustable, diseñada para mejorar la estabilidad y el manejo del coche, especialmente útil en todas las modalidades de carrera1.",
+        "tires": "Neumáticos de alto rendimiento que ofrecen excelente tracción y control. Llantas de aleación de 19 pulgadas1, diseñadas para soportar altas velocidades y proporcionar un buen agarre.",
+        "Vinilos": "El Mustang de Razor está decorado con vinilos de llamas rojas y naranjas que recorren los laterales del coche1, dándole un aspecto distintivo y agresivo.",
+        "Rendimiento": "Excelente aceleración, lo que lo hace ideal para alcanzar rápidamente altas velocidades en carreras de aceleración y radar. Alta velocidad máxima, crucial para mantener la ventaja en carreras de sprint y circuito. Manejo preciso y ágil, permitiendo tomar curvas a alta velocidad sin perder el control, lo que es esencial en carreras de eliminación."
+      },
+      "description": "El Ford Mustang GT de Razor es un coche de alto rendimiento, ideal para todas las modalidades de carrera en “Need for Speed: Most Wanted (2005)”. Su rápida aceleración y alta velocidad máxima lo hacen perfecto para carreras de aceleración, radar, sprint y circuito. La suspensión deportiva y los neumáticos de alto rendimiento mejoran la estabilidad y el control, permitiendo un rendimiento óptimo en cualquier tipo de carrera. El diseño agresivo con vinilos de llamas resalta su carácter intimidante, mientras que su motor potente asegura que pueda competir con los mejores en la Blacklist."
+    }
+  },
+  {
+    "id": "nfsmw-BL-02",
+    "Blacklist-position": "02",
+    "name": "Toru Sato",
+    "nickname": "Bull",
+    "runner-image": "www.link-image.com",
+    "history": "Si no fuera por Razor, Toru seguiría colgado en los muelles, soñando con la Blacklist. El tío se piensa que tiene un don oculto. Llámalo psicología inversa. Lo único de serie que lleva su buga es la pintura. A Toru le encanta llevar su coche como una patena, así que abóllalo en cuanto tengas oportunidad.",
+    "vehicle": {
+      "image": "www.link-image.com",
+      "Vehicle-Brand": "Mercedes-Benz/McLaren",
+      "Vehicle-Model": "SLR",
+      "color": "Negro metalizado",
+      "modifications": {
+        "Suspensión": "Suspensión deportiva ajustable, diseñada para mejorar la estabilidad y el manejo del coche, especialmente útil en carreras de alta velocidad1.",
+        "tires": "Neumáticos de alto rendimiento que ofrecen excelente tracción y control, diseñadas para soportar altas velocidades y proporcionar un buen agarre.",
+        "Vinilos": "El SLR McLaren de Bull no tiene vinilos visibles, manteniendo un diseño limpio y elegante1.",
+        "Rendimiento": "Manejo preciso y ágil, permitiendo tomar curvas a alta velocidad sin perder el control. Excelente aceleración, lo que lo hace ideal para alcanzar rápidamente altas velocidades."
+      },
+      "description": "El Mercedes-Benz SLR McLaren de Bull es un coche de alto rendimiento, ideal para carreras sprint debido a su rápida aceleración y alta velocidad máxima. Su suspensión deportiva y neumáticos de alto rendimiento mejoran la estabilidad y el control, permitiendo un rendimiento óptimo en carreras de alta velocidad. El diseño limpio y elegante resalta su sofisticación, mientras que su motor potente asegura que pueda competir con los mejores en la Blacklist."
+    }
+  },
+  {
+    "id": "nfsmw-BL-03",
+    "Blacklist-position": "03",
+    "name": "Joe Vega",
+    "nickname": "JV",
+    "runner-image": "www.link-image.com",
+    "history": "No me explico cómo se lo monta JV, pero es la estrella en el club y en la calle. El tío tiene cantidad de reputación. Los polis lo odian y los corredores lo imitan. Su buga es inconfundible: un Dodge Viper de color verde chillón.",
+    "vehicle": {
+      "image": "www.link-image.com",
+      "Vehicle-Brand": "Dodge",
+      "Vehicle-Model": "Viper SRT10",
+      "color": "Amarillo con vinilos verdes",
+      "modifications": {
+        "Suspensión": "Suspensión deportiva ajustable, diseñada para mejorar la estabilidad y el manejo del coche, especialmente útil en maniobras evasivas y persecuciones policiales.",
+        "tires": "Neumáticos de alto rendimiento que ofrecen excelente tracción y control.",
+        "Vinilos": "Está decorado con franjas verdes que recorren el capó y el techo del coche1, dándole un aspecto distintivo y agresivo.",
+        "Rendimiento": "Manejo preciso y ágil, permitiendo tomar curvas a alta velocidad sin perder el control. Alta velocidad máxima, crucial para mantener la distancia con los perseguidores."
+      },
+      "description": "El Aston Martin DB9 de Ronnie es un coche de alto rendimiento, ideal para destruir coches patrulla debido a su rápida aceleración y alta velocidad máxima. Su suspensión deportiva y neumáticos de alto rendimiento mejoran la estabilidad y el control, permitiendo un rendimiento óptimo en situaciones de alta tensión. "
+    }
+  },
+  {
+    "id": "nfsmw-BL-04",
+    "Blacklist-position": "04",
+    "name": "Joe Vega",
+    "nickname": "JV",
+    "runner-image": "www.link-image.com",
+    "history": "No me explico cómo se lo monta JV, pero es la estrella en el club y en la calle. El tío tiene cantidad de reputación. Los polis lo odian y los corredores lo imitan. Su buga es inconfundible: un Dodge Viper de color verde chillón.",
+    "vehicle": {
+      "image": "www.link-image.com",
+      "Vehicle-Brand": "Dodge",
+      "Vehicle-Model": "Viper SRT10",
+      "color": "Verde chillón con rayas negras.",
+      "modifications": {
+        "Suspensión": "Suspensión deportiva ajustable, diseñada para mejorar la estabilidad y el manejo del coche, especialmente útil en carreras de alta velocidad1.",
+        "tires": "Neumáticos de alto rendimiento que ofrecen excelente tracción y control.",
+        "Vinilos": "El Viper de JV está decorado con vinilos de llamas negras que se extienden desde los guardabarros delanteros hacia la parte trasera del coche1, dándole un aspecto distintivo y agresivo.",
+        "Rendimiento": "Manejo preciso y ágil, permitiendo tomar curvas a alta velocidad sin perder el control. Excelente aceleración, lo que lo hace ideal para alcanzar rápidamente altas velocidades."
+      },
+      "description": "El Dodge Viper SRT10 de JV es un coche de alto rendimiento, ideal para carreras de radar debido a su rápida aceleración y alta velocidad máxima. Su suspensión deportiva y neumáticos de alto rendimiento mejoran la estabilidad y el control, permitiendo un rendimiento óptimo en carreras de alta velocidad. El diseño agresivo con vinilos de llamas negras resalta su carácter intimidante, mientras que su motor potente asegura que pueda competir con los mejores en la Blacklist."
+    }
+  },
+  {
+    "id": "nfsmw-BL-05",
+    "Blacklist-position": "05",
+    "name": "Wes Allen",
+    "nickname": "Webster",
+    "runner-image": "www.link-image.com",
+    "history": "Webster no para de hablar de coches, prestaciones, corredores y bla, bla, bla. No calla ni muerto. Tiene una loca pasión por la velocidad y la libertad, y cree que va a hacer algo grande. Cuando no está corriendo en las calles, se le puede encontrar en su taller. Su coche está tuneado al máximo. Incluso ha vaciado el interior para correr más rápido.",
+    "vehicle": {
+      "image": "www.link-image.com",
+      "Vehicle-Brand": "Chevrolet",
+      "Vehicle-Model": "Corvette C6",
+      "color": "Bronce metalizado",
+      "modifications": {
+        "Suspensión": "Suspensión deportiva ajustable, diseñada para mejorar la estabilidad y el manejo del coche, especialmente útil en maniobras evasivas y persecuciones policiales",
+        "tires": "Neumáticos de alto rendimiento que ofrecen excelente tracción y control.",
+        "Vinilos": "El Corvette C6 de Webster está decorado con un vinilo único de un cráneo y huesos en los laterales12, dándole un aspecto distintivo y agresivo.",
+        "Rendimiento": "Excelente aceleración, lo que lo hace ideal para escapar rápidamente de las persecuciones. Manejo preciso y ágil, permitiendo tomar curvas a alta velocidad sin perder el control."
+      },
+      "description": "El Chevrolet Corvette C6 de Webster es un coche de alto rendimiento, ideal para eludir a la policía debido a su rápida aceleración y alta velocidad máxima. Su suspensión deportiva y neumáticos de alto rendimiento mejoran la estabilidad y el control, permitiendo un rendimiento óptimo en situaciones de alta tensión."
+    }
+  },
+  {
+    "id": "nfsmw-BL-06",
+    "Blacklist-position": "06",
+    "name": "Hector Domingo",
+    "nickname": "Ming",
+    "runner-image": "www.link-image.com",
+    "history": "Ming es un corredor experimentado y peligroso. Su coche, el Lamborghini Gallardo, es conocido por su velocidad y maniobrabilidad. No subestimes a este rival, ya que está dispuesto a hacer lo que sea necesario para mantenerse en la cima de la Blacklist.",
+    "vehicle": {
+      "image": "www.link-image.com",
+      "Vehicle-Brand": "Lamborghini",
+      "Vehicle-Model": "Gallardo",
+      "color": "Gris y negro",
+      "modifications": {
+        "Suspensión": "Suspensión deportiva ajustable, diseñada para mejorar la estabilidad y el manejo del coche, especialmente útil en carreras de alta velocidad.",
+        "tires": "Neumáticos de alto rendimiento que ofrecen excelente tracción y control.",
+        "Vinilos": "El Gallardo de Ming generalmente tiene un diseño limpio y elegante sin vinilos adicionales, manteniendo su aspecto sofisticado y agresivo.",
+        "Rendimiento": "Alta velocidad máxima, crucial para carreras de radar donde la velocidad punta es esencial. Excelente aceleración, lo que lo hace ideal para alcanzar rápidamente altas velocidades."
+      },
+      "description": "El Lamborghini Gallardo de Ming es un coche de alto rendimiento, ideal para carreras de radar debido a su rápida aceleración y alta velocidad máxima. Su suspensión deportiva y neumáticos de alto rendimiento mejoran la estabilidad y el control, permitiendo un rendimiento óptimo en carreras de alta velocidad."
+    }
+  },
+  {
+    "id": "nfsmw-BL-07",
+    "Blacklist-position": "07",
+    "name": "Kira Nakazato",
+    "nickname": "Kaze",
+    "runner-image": "www.link-image.com",
+    "history": "Kaze está loca. Su lema es que lo que no puede conseguir con habilidad, puede hacerlo con velocidad. No dejes que su cara bonita te engañe, porque aplastará todo lo que se encuentre en su camino, incluido tú. No le importará cargarse su coche con tal de echarte de la carretera.",
+    "vehicle": {
+      "image": "www.link-image.com",
+      "Vehicle-Brand": "Mercedes-Benz",
+      "Vehicle-Model": "CLK 500",
+      "color": "Gris con un vinilo de una serpiente en la rama de un cerezo.",
+      "modifications": {
+        "Suspensión": "Suspensión deportiva ajustable, diseñada para mejorar la estabilidad y el manejo del coche, especialmente útil en persecuciones y maniobras agresivas.",
+        "tires": "Neumáticos de alto rendimiento que ofrecen excelente tracción y control.",
+        "Vinilos": "El CLK 500 de Kaze está decorado con un vinilo único de una serpiente en la rama de un cerezo, dándole un aspecto distintivo y agresivo.",
+        "Rendimiento": "Alta velocidad máxima, aunque su punto fuerte es la capacidad de causar daños significativos."
+      },
+      "description": "El Mercedes-Benz CLK 500 de Kaze es un coche potente y robusto, ideal para causar daños significativos en persecuciones policiales y carreras de vandalismo. Su rápida aceleración y alta velocidad máxima lo hacen perfecto para embestir vehículos y estructuras, aumentando el coste para el estado."
+    }
+  },
+  {
+    "id": "nfsmw-BL-08",
+    "Blacklist-position": "08",
+    "name": "Jade Barrett",
+    "nickname": "Jewels",
+    "runner-image": "www.link-image.com",
+    "history": "Esta persona responde al nombre de Jewels. Le encantan los coches grandes y potentes. Tiene muchos kilómetros en las tires, así que mejor que no hagas estupideces. Bajo el capó de su buga hay muchos, muchos caballos.",
+    "vehicle": {
+      "image": "www.link-image.com",
+      "Vehicle-Brand": "Ford",
+      "Vehicle-Model": "Mustang GT",
+      "color": "El coche de Jewels generalmente tiene un diseño personalizado en color blanco con vinilos de color vino tinto que destacan su estilo agresivo.",
+      "modifications": {
+        "Suspensión": "Suspensión deportiva ajustable, que mejora la estabilidad y el manejo del coche, especialmente en carreras de aceleración.",
+        "tires": "Neumáticos de alto rendimiento que ofrecen excelente tracción y control.",
+        "Vinilos": "El Mustang GT de Jewels está decorado con vinilos personalizados que incluyen gráficos y rayas, dándole un aspecto distintivo y agresivo.",
+        "Rendimiento": "Excelente aceleración, lo que lo hace ideal para carreras de sprint y de aceleración. Buen manejo, especialmente en línea recta, aunque puede ser más desafiante en curvas cerradas debido a su potencia."
+      },
+      "description": "Es un coche potente y rápido, ideal para carreras de aceleración gracias a su rápida aceleración y excelente tracción. Su suspensión deportiva y neumáticos de alto rendimiento mejoran la estabilidad y el control, permitiendo un rendimiento óptimo en carreras cortas."
+    }
+  },
+  {
+    "id": "nfsmw-BL-09",
+    "Blacklist-position": "09",
+    "name": "Eugene James",
+    "nickname": "Earl",
+    "runner-image": "www.link-image.com",
+    "history": "Este tipo viene de la parte baja del este de Rockport, pero ahora corre en la costa. Es un fanático de la importación y es capaz de hacer cualquier cosa para ganar.",
+    "vehicle": {
+      "image": "www.link-image.com",
+      "Vehicle-Brand": "Mitsubishi",
+      "Vehicle-Model": "Lancer EVOLUTION VIII",
+      "color": "Blanco con vinilo azul y rojo",
+      "modifications": {
+        "Suspensión": "La suspensión deportiva mejora la capacidad de tomar curvas a alta velocidad y reduce el balanceo del coche, lo que es crucial para las carreras en circuitos urbanos.",
+        "tires": "Los neumáticos de alto rendimiento proporcionan mejor tracción y agarre, esenciales para las carreras y las persecuciones policiales.",
+        "Vinilos": "El coche de Earl presenta un diseño personalizado con vinilos de carreras en colores azul y blanco. Los vinilos incluyen rayas y gráficos que le dan un aspecto agresivo y distintivo.",
+        "Rendimiento": "Este ccohe stá equipado con un motor de 3.4 litros, 6 cilindros, que produce alrededor de 325 caballos de fuerza"
+      },
+      "description": "Es ideal para carreras de sprint debido a su rápida aceleración, excelente manejo y tracción a las cuatro tires. Su suspensión deportiva y neumáticos de alto rendimiento mejoran la estabilidad y el control, permitiendo tomar curvas cerradas a alta velocidad y mantener una salida rápida desde la línea de partida."
+    }
+  },
+  {
+    "id": "nfsmw-BL-10",
+    "Blacklist-position": "10",
+    "name": "Karl Smit",
+    "nickname": "Barón",
+    "runner-image": "www.link-image.com",
+    "history": "Este pringadillo se hace llamar Baron. Es un ricachón de la costa Este que piensa que lo de retocar los buggas es una excusa para justificar la falta de pasta. Para él, si no es de marca, no vale nada.",
+    "vehicle": {
+      "image": "www.link-image.com",
+      "Vehicle-Brand": "Porsche",
+      "Vehicle-Model": "Cayman S",
+      "color": "Negro con un vinilo en llamas",
+      "modifications": {
+        "Suspensión": "La suspensión del Porsche Cayman S está diseñada para ofrecer un equilibrio entre comodidad y rendimiento.",
+        "tires": "El coche viene con tires de 19 pulgadas Aftermarket (personalizadas)",
+        "Vinilos": "Posee vinilos de llamas rojas y naranjas, lo que le da un aspecto llamativo y agresivo.",
+        "Rendimiento": "Este ccohe stá equipado con un motor de 3.4 litros, 6 cilindros, que produce alrededor de 325 caballos de fuerza"
+      },
+      "description": "El Porsche Cayman S es excelente en maniobrabilidad, aceleración, estabilidad, personalización y velocidad máxima lo que lo lleva a ser mejor en infraccion"
+    }
+  },
+  {
+    "id": "nfsmw-BL-11",
+    "Blacklist-position": "11",
+    "name": "Lou Park",
+    "nickname": "Big Lou",
+    "runner-image": "www.link-image.com",
+    "history": "Esta mole coreana es el ojito derecho de las nenas. Le encanta exhibirse. Se rumorea que se achanta cuando aparece la poli y falla en las carreras, pero yo aún no lo he visto. Además, dicen que no se le da bien el embrague, así que su salida es bastante lenta. Pero yo no contaría con ello.",
+    "vehicle": {
+      "image": "www.link-image.com",
+      "Vehicle-Brand": "Mitsubishi",
+      "Vehicle-Model": "Eclipse GT",
+      "color": "Negro con un vinilo de tigre en naranja y negro",
+      "modifications": {
+        "Suspensión": "Bajada para un mejor rendimiento en carreras de cabinas de peaje.",
+        "tires": "Aftermarket (personalizadas)",
+        "Vinilos": "Un vinilo de tigre en colores naranja y negro que cubre los laterales del coche, dándole un aspecto agresivo y llamativo.",
+        "Rendimiento": "Mejorado con piezas aftermarket para aumentar la velocidad y el manejo."
+      },
+      "description": "Este coche es conocido por su diseño agresivo y su rendimiento mejorado, lo que lo hace ideal para las carreras de cabinas de peaje en el juego"
+    }
+  },
+  {
+    "id": "nfsmw-BL-12",
+    "Blacklist-position": "12",
+    "name": "Isabel Diaz",
+    "nickname": "Izzy",
+    "runner-image": "www.link-image.com",
+    "history": "Izzy es una piba con la que hay que andarse con cuidado. Sabe mucho de coches, dentro y fuera del asfalto y su buga es una máquina de precisión. Proviene de una larga estirpe de corredores. Siempre corre con sus primos, amigos o tíos. Espera que se la trate como a un igual.",
+    "vehicle": {
+      "image": "www.link-image.com",
+      "Vehicle-Brand": "Mazda",
+      "Vehicle-Model": "RX-8",
+      "color": "Gris con vinilos de llamas negras y rojas",
+      "modifications": {
+        "Suspensión": "Bajada para un mejor rendimiento en carreras por eliminación.",
+        "tires": "Aftermarket (personalizadas)",
+        "Vinilos": "Llamas negras y rojas en los laterales del coche, lo que le da un aspecto agresivo y llamativo",
+        "Rendimiento": "Mejorado con piezas aftermarket para aumentar la velocidad y el manejo."
+      },
+      "description": "Este coche es conocido por su diseño agresivo y su rendimiento mejorado, lo que lo hace ideal para las carreras por eliminación en el juego"
+    }
+  },
+  {
+    "id": "nfsmw-BL-13",
+    "Blacklist-position": "13",
+    "name": "Héctor Vásquez",
+    "nickname": "Vic",
+    "runner-image": "www.link-image.com",
+    "history": "Este tipo lleva más tiempo en la 13ª posición de lo que le gustaría. No parece capaz de escalar posiciones, pero nadie consigue desbancarlo. Es vago y peligroso. Te hará pedazos si le dejas.",
+    "vehicle": {
+      "image": "www.link-image.com",
+      "Vehicle-Brand": "Toyota",
+      "Vehicle-Model": "Supra",
+      "color": "Azul con un diseño de llamas en los laterales",
+      "modifications": {
+        "Suspensión": "Bajada para un mejor rendimiento en persecuciones.",
+        "tires": "Naranjas, personalizadas",
+        "Vinilos": "Diseño único con calaveras y lágrimas",
+        "Rendimiento": "Este coche es conocido por su diseño agresivo y su rendimiento mejorado, lo que lo hace ideal para las persecuciones en el juego"
+      },
+      "description": "Este coche es conocido por su apariencia distintiva y su rendimiento mejorado, lo que lo hace ideal para las carreras de sprint en el juego"
+    }
+  },
+  {
+    "id": "nfsmw-BL-14",
+    "Blacklist-position": "14",
+    "name": "Vince Kilic",
+    "nickname": "Taz",
+    "runner-image": "www.link-image.com",
+    "history": "En la Blacklist 14 con el nombre de “Taz.” Odiado por los polis y adorado por la calle. Taz chifla a la pasma y ellos a él. Ten cuidado con este tipo. Deambula por las calles buscando novatos.",
+    "vehicle": {
+      "image": "www.link-image.com",
+      "Vehicle-Brand": "Lexus",
+      "Vehicle-Model": "IS 300",
+      "color": "Dorado con diseños de calaveras que le dan un aspecto intimidante y agresivo",
+      "modifications": {
+        "Suspensión": "Bajada para un mejor rendimiento en carreras.",
+        "tires": "Aftermarket (personalizadas)",
+        "Vinilos": "Diseño único con calaveras y lágrimas",
+        "Rendimiento": "Mejorado para carreras de sprint"
+      },
+      "description": "Este coche es conocido por su apariencia distintiva y su rendimiento mejorado, lo que lo hace ideal para las carreras de sprint en el juego"
+    }
+  },
+  {
+    "id": "nfsmw-BL-15",
+    "Blacklist-position": "15",
+    "name": "Ho Seun",
+    "nickname": "Sonny",
+    "runner-image": "www.link-image.com",
+    "history": "Este tío es Sonny. Se ha pulido un montón de dinero en su coche. Su buga está muy curado, así que no te engañes con su caché. Este tío ama el tuning, es una máquina de hacerlo que sea por pillar un cargamento de piezas antes de que estén en las calles.",
+    "vehicle": {
+      "image": "www.link-image.com",
+      "Vehicle-Brand": "Volkswagen",
+      "Vehicle-Model": "Golf GTI",
+      "color": "Blanco con vinilos únicos en azul que incluyen caligrafía china",
+      "modifications": {
+        "Suspensión": "Bajada",
+        "tires": "Aftermarket (personalizadas)",
+        "Vinilos": "Diseños únicos y gráficos personalizados",
+        "Rendimiento": "Mejorado para carreras de circuito"
+      },
+      "description": "El coche es un Volkswagen Golf GTI modificado, conocido como el coche de “Sonny” en el juego Need for Speed: Most Wanted."
+    }
+  },
+  {
+    "id": "nfsmw-BL-16",
+    "Blacklist-position": "N/A",
+    "name": "Jonathan Cross",
+    "nickname": "Sargento Cross",
+    "runner-image": "www.link-image.com",
+    "history": "El Sargento Jonathan Cross es un personaje clave que añade tensión y desafío al juego, conocido por su determinación y métodos implacables para atrapar a los corredores callejeros. Tras derrotar a Razor y recuperar el BMW M3 GTR, el protagonista debe escapar de una intensa persecución policial liderada por Cross. Después de una emocionante huida, el protagonista se convierte en el corredor más buscado a nivel nacional.",
+    "vehicle": {
+      "image": "www.link-image.com",
+      "Vehicle-Brand": "Chevrolete",
+      "Vehicle-Model": "Corvette C6.R",
+      "color": "Negro con diseños de vinilos",
+      "modifications": {
+        "Suspensión": "Suspensión deportiva ajustable, diseñada para mejorar la estabilidad y el manejo del coche, especialmente útil en persecuciones y carreras de alta velocidad.",
+        "tires": "Neumáticos de alto rendimiento que ofrecen excelente tracción y control. Llantas de aleación de 19 pulgadas, diseñadas para soportar altas velocidades y proporcionar un buen agarre.",
+        "Vinilos": "El Corvette C6.R está decorado con vinilos blancos que incluyen formas angulares y curvas, dándole un aspecto distintivo y agresivo.",
+        "Rendimiento": "Alta velocidad máxima, crucial para mantener la ventaja en persecuciones y carreras de alta velocidad. Excelente aceleración, lo que lo hace ideal para alcanzar rápidamente altas velocidades en persecuciones."
+      },
+      "description": "El Chevrolet Corvette C6.R es un coche de alto rendimiento, ideal para persecuciones debido a su rápida aceleración y alta velocidad máxima. Su suspensión deportiva y neumáticos de alto rendimiento mejoran la estabilidad y el control, permitiendo un rendimiento óptimo en situaciones de alta velocidad. El diseño agresivo con vinilos blancos resalta su carácter intimidante, mientras que su motor potente asegura que pueda competir con los mejores en la Blacklist."
+    }
+  },
+  {
+    "id": "nfsmw-BL-17",
+    "Blacklist-position": "N/A",
+    "name": "Mia Townsend",
+    "nickname": "Policía encubierta ",
+    "runner-image": "www.link-image.com",
+    "history": "Mia Townsend es un personaje clave que juega un papel crucial en la historia del juego. Mia aparece al principio del juego, conduciendo un Mazda RX-8 rojo. Ella se presenta al protagonista y lo guía a través de las primeras etapas del juego. Después de que el protagonista pierde su BMW M3 GTR contra Razor debido a una trampa, Mia lo recoge de la estación de policía y lo ayuda a conseguir un nuevo coche. Ella proporciona acceso a un refugio y a un concesionario de coches a través de su contacto Ed.",
+    "vehicle": {
+      "image": "www.link-image.com",
+      "Vehicle-Brand": "Mazda",
+      "Vehicle-Model": "RX-8",
+      "color": "Rojo con diseños de vinilos",
+      "modifications": {
+        "Suspensión": "Baja, lo que indica una configuración deportiva.",
+        "tires": "Grandes, con un diseño de cinco radios en color plateado.",
+        "Vinilos": "Diseño tribal en negro y plateado en los laterales.",
+        "Rendimiento": "En cuanto al rendimiento, este Mazda RX-8 es ideal para carreras de radar en Need for Speed: Most Wanted (2005) debido a su aceleración mejorada y alta velocidad máxima, características cruciales para este tipo de carreras."
+      },
+      "description": "Este coche es conocido por su excelente manejo y aceleración, lo que lo hace muy competitivo en las carreras del juego. Mia utiliza este coche para ayudar al jugador a avanzar en la lista negra y es uno de los vehículos más icónicos del juego."
+    }
+  },
+  {
+    "vehicles":[
+      "Aston Martin DB9",
+      "Audi A3 3.2 quattro",
+      "Audi A4 3.2 FSI quattro",
+      "Audi TT 3.2 quattro",
+      "BMW M3 GTR (E46)",
+      "Cadillac CTS",
+      "Chevrolet Cobalt SS",
+      "Chevrolet Corvette C6",
+      "Dodge Viper SRT10",
+      "Fiat Punto",
+      "Ford GT",
+      "Ford Mustang GT",
+      "Lamborghini Gallardo",
+      "Lamborghini Murciélago",
+      "Lexus IS300",
+      "Lotus Elise",
+      "Mazda RX-7",
+      "Mazda RX-8",
+      "Mercedes-Benz CLK 500",
+      "Mercedes-Benz SL 500",
+      "Mercedes-Benz SLR McLaren",
+      "Mitsubishi Eclipse GT",
+      "Mitsubishi Lancer Evolution VIII",
+      "Pontiac GTO",
+      "Porsche 911 Carrera S",
+      "Porsche 911 Turbo S",
+      "Porsche Carrera GT",
+      "Renault Clio V6",
+      "Subaru Impreza WRX STi",
+      "Toyota Supra",
+      "Volkswagen Golf GTI"
+    ]
+  }
+
+]
